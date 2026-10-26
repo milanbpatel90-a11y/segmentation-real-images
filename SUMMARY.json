@@ -1,0 +1,21 @@
+{
+  "images": 1000,
+  "masks": 1000,
+  "labels": 1000,
+  "categories": {
+    "eyeglasses": 800,
+    "sunglasses": 200
+  },
+  "splits": {
+    "train": 700,
+    "val": 152,
+    "test": 148
+  },
+  "review_priority": {
+    "standard_review": 1000
+  },
+  "all_annotations": "AI_PRELABEL_NOT_HUMAN_VERIFIED",
+  "source_revision": "7011dd3ac628040a8885a4b597399409643a9e04",
+  "licence_tag": "cc-by-4.0",
+  "product_groups": 250
+}
